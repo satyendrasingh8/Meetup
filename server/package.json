@@ -1,0 +1,22 @@
+{
+  "name": "near-server",
+  "version": "0.0.1",
+  "description": "Finding people near you.",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon --inspect index.js",
+    "start": "node index.js"
+  },
+  "author": "Satyendra singh",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11",
+    "mongoose-geojson-schema": "^2.1.2",
+    "request": "^2.85.0",
+    "socket.io": "^2.0.4"
+  }
+}

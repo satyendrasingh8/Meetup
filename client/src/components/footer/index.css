@@ -1,0 +1,25 @@
+.footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+    text-align: center;
+    color: #FFF;
+    background:black;
+    padding: 20px;
+    text-align: center;
+    
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer__text--big {
+    font-weight: bold;
+    font-size: 20pt;
+    font-style: italic;
+}
+
+.footer__text--small {
+    font-size: 20pt;
+    font-style: italic;
+}
