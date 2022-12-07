@@ -13,7 +13,7 @@
     "nodemon": "^1.17.2"
   },
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "mongoose": "^5.0.11",
     "mongoose-geojson-schema": "^2.1.2",
     "request": "^2.85.0",
